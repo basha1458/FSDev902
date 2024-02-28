@@ -1,4 +1,4 @@
-package com.nt.service;
+package com.nt.tests;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -6,8 +6,10 @@ import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
+import com.nt.service.ArithmeticOperation;
 
-public class AppTest {
+
+public class AppTest1 {
 	private static ArithmeticOperation ar;
 
 	@BeforeAll
