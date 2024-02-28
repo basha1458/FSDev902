@@ -12,7 +12,7 @@ public class App
        System.out.println("sum::"+resSum);
        System.out.println("subraction::"+resSum);
        System.out.println("multification::"+ar.mul(100, 300));
-       System.out.println("-------------==========");//123
+       System.out.println("-------------==========");//123098
 
     }
 }
