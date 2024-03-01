@@ -13,5 +13,8 @@ public class PaymentServiceOperation {
 	public String doUPICardPayment() {
 		return "Payment done successfully! through UPI ";
 	}
+	public String doNetBankingCardPayment() {
+		return "Payment done successfully! through NetBanking";
+	}
 	
 }
