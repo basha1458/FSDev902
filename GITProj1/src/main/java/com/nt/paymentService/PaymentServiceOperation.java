@@ -16,5 +16,8 @@ public class PaymentServiceOperation {
 	public String doNetBankingCardPayment() {
 		return "Payment done successfully! through NetBanking";
 	}
+	public String doPhonePayPayment1() {
+		return "Payment done successfully! through PhonePay";
+	}
 	
 }
