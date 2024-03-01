@@ -9,4 +9,9 @@ public class PaymentServiceOperation {
 	public String doCreditCardPayment() {
 		return "Payment done successfully! through Credit card ";
 	}
+	
+	public String doUPICardPayment() {
+		return "Payment done successfully! through UPI ";
+	}
+	
 }
